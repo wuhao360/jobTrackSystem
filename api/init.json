@@ -43,7 +43,7 @@
             },
             {
               "title": "班级信息维护",
-              "href": "page/class/findClass.html",
+              "href": "page/class/findclass.html",
               "icon": "fa fa-search-plus",
               "target": "_self"
             }
