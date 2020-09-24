@@ -77,7 +77,7 @@
           "child": [
             {
               "title": "合作企业添加",
-              "href": "page/company/addcompany.html",
+              "href": "page/company/addCompany.html",
               "icon": "fa fa-plus-square",
               "target": "_self"
             },
